@@ -11,3 +11,4 @@ char* StrCpy(char* src)
    p[i]='\0';
    return p;
 }
+/**本地edit**/
